@@ -1,0 +1,13 @@
+#gallery {
+display: flex;
+flex-wrap: wrap;
+list-style: none;
+}
+
+.class {
+width: 350px;
+height: auto;
+margin: 15px;
+padding: 10px;
+}
+
